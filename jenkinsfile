@@ -1,7 +1,7 @@
 node {
     def app
 
-    stage('Clone des sources') {
+    stage('Clone des  sources') {
         checkout scm
     }
 
